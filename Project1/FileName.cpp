@@ -9,6 +9,6 @@ std::cout << "Hello World!" << std::endl;
 std::cout << "Hello World!" << std::endl;
 std::cout << "Hello World!" << std::endl;
 
-/*回档测试1新建一个回档分1111支合并mast1111111e11r*/
+/*回档测试1新建一个回档分支合并master*/
 	   return 0;
 }
